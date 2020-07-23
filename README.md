@@ -1,4 +1,6 @@
 # XenBrute
 
-sudo systemctl start tor
-sudo ./xenbrute http://xenforum.com admin mylist.txt
+Usage
+
+    sudo systemctl start tor
+    sudo ./xenbrute http://xenforum.com admin mylist.txt
